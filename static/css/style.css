@@ -112,5 +112,10 @@ a:hover {
 
 .submit-button {
     width: 100px;
-    height: 30px;
+    padding: 5px;
+}
+
+.mx-width{
+    max-width: 300px;
+    max-height: 200px;
 }
